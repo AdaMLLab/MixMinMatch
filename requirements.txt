@@ -1,0 +1,13 @@
+# DataTrove - main processing library (core only, not [all] to avoid heavy deps)
+datatrove>=0.2.0
+
+# HuggingFace datasets
+datasets>=2.14.0
+huggingface_hub>=0.16.0
+
+# For Parquet output
+pyarrow>=12.0.0
+fastparquet>=2023.4.0
+
+# Utilities
+tqdm>=4.65.0
