@@ -6,7 +6,7 @@ A modular pipeline for creating high-quality pretraining data by combining, filt
 
 | Language | Code | Datasets | HuggingFace |
 |----------|------|----------|-------------|
-| Arabic | `ar` | HPLT2, CulturaX, ArabicWeb24, Clusterlab, C4, FineWeb-2, FinePDFs | [`SultanR/AraMix`](https://huggingface.co/datasets/SultanR/AraMix) |
+| Arabic | `ar` | HPLT2, CulturaX, ArabicWeb24, Clusterlab, C4, FineWeb-2, FinePDFs | [`AdaMLLab/AraMix`](https://huggingface.co/datasets/AdaMLLab/AraMix) |
 | Turkish | `tr` | HPLT2, CulturaX, C4, FineWeb-2, VNGRS | [`AdaMLLab/TurMix`](https://huggingface.co/datasets/AdaMLLab/TurMix) |
 | Hindi | `hi` | HPLT2, CulturaX, C4, FineWeb-2, Sangraha | [`AdaMLLab/HinMix`](https://huggingface.co/datasets/AdaMLLab/HinMix) |
 
